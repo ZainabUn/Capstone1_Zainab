@@ -8,6 +8,15 @@ Which area in Chicago dine outs a lot
 Which area has less bakeries in Chicago
 Looking at competitors data like Dunkin donut
 what item sells most
+vegan/vegetarian/halal
+https://trends.google.com/trends/explore?q=vegan&date=now%201-d&geo=US&hl=en-US
+https://trends.google.com/trends/explore?date=now%201-d&geo=US&q=vegetarian&hl=en-US
+https://trends.google.com/trends/explore?date=now%201-d&geo=US&q=halal&hl=en-US
+
+
+Choose one idea to go forward with, and start defining the details around that business. What do
+they do? Who are the customers? Who are the suppliers? What area of the market does the business
+aim for?
 
 
 idea 2: non profit for ingredients
@@ -15,3 +24,12 @@ look at fig app
 look at scan halal
 look at organization for Ud , KD
 get in touch with food scientist
+
+
+
+market research -one schema(not expected to relate)
+business dtabase-schema
+
+data cleaning -- do not import columns that you do not need
+aggregate data to get meaningful insights
+do not include in main table
