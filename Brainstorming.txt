@@ -18,6 +18,17 @@ Choose one idea to go forward with, and start defining the details around that b
 they do? Who are the customers? Who are the suppliers? What area of the market does the business
 aim for?
 
+WHY GOOD IDEA?
+vegetarian ,halal trend past 5 years google trend
+Bakery trend increase
+
+
+Inspiration/insights
+table with bakeries making more than 500,000
+which item like pie trend when (use the tables import from bls data finder)
+location-population and number of bakeries in zip code for deciding area for bakery along with rent expense
+
+
 
 idea 2: non profit for ingredients
 look at fig app
