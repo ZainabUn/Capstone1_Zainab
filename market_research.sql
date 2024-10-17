@@ -8,10 +8,15 @@ SELECT * FROM marketresearchcapstone1.interesthalal;
 SELECT * FROM marketresearchcapstone1.vegatarianinterest;
 
 
+
+####inspiration####
+SELECT * FROM marketresearchcapstone1.bakerieswithsalevaluemorethan500kto1million;
+
+
 ######LOCATION RESEARCH#######
 
 
-SELECT * FROM marketresearchcapstone1.bakerieswithsalevaluemorethan500kto1million;
+
 
 #POPULATION SIZE OF BAKERIES THAT MAKE MORE THAN 500,000
 SELECT CompanyName,LocationSalesVolumeActual,ZIPCode,City,PopulationTotal FROM marketresearchcapstone1.bakerieswithsalevaluemorethan500kto1million
