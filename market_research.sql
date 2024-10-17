@@ -9,7 +9,7 @@ SELECT * FROM marketresearchcapstone1.vegatarianinterest;
 
 
 
-####inspiration####
+#### Bakeries with Sales more than 500,000 ####
 SELECT * FROM marketresearchcapstone1.bakerieswithsalevaluemorethan500kto1million;
 
 
