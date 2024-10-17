@@ -2,8 +2,9 @@ CREATE DATABASE MarketResearchCapstone1;
 
 
 ###BUSINESS MODEL####
-#excel file named bakeryproductsincrease
 
+
+SELECT * FROM marketresearchcapstone1.bakeryproductgrowth;
 SELECT * FROM marketresearchcapstone1.interesthalal;
 SELECT * FROM marketresearchcapstone1.vegatarianinterest;
 
